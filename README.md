@@ -1,6 +1,6 @@
 # Example.EikonAPI.Python.RelativeValue
 
-Harness Refinitiv APIs to perform relative value across sercurities universes
+Harness Refinitiv APIs to perform relative value across securities universes
 This example showcases the [Eikon Data API (DAPI)](https://developers.refinitiv.com/eikon-data-apis). 
 
 
